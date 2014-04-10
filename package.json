@@ -1,0 +1,7 @@
+{
+  "name": "maintainance-server",
+  "version": "0.0.0",
+  "bin": {
+    "maintainane-server": "./index.js"
+  }
+}
