@@ -2,7 +2,7 @@
 
 Simple maintenance as a service
 
-	npm -g install mafintosh/maintenance-as-a-service
+	npm -g install maintenance-as-a-service
 
 To use it pass a port (defaults to `80`)
 
