@@ -9,7 +9,7 @@ var http = require('http');
 var fs = require('fs');
 var path = require('path');
 
-var buf = fs.readFileSync(path.join(__dirname, 'maintainance.html'));
+var buf = fs.readFileSync(path.join(__dirname, 'index.html'));
 
 var server = http.createServer(function(request, response) {
 	response.setHeader('Content-Type', 'text/html; charset=utf-8');
