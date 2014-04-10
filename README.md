@@ -1,11 +1,11 @@
-# maintainance-server
+# maintenance-server
 
-Simple maintainance server
+Simple maintenance server
 
-	npm -g install mafintosh/maintainance-server
+	npm -g install mafintosh/maintenance-server
 
 To use it pass a port (defaults to `80`)
 
-	maintainance-server --port 8080
+	maintenance-server --port 8080
 
 License is MIT
