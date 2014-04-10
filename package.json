@@ -1,5 +1,7 @@
 {
   "name": "maintenance-as-a-service",
+  "repository": "mafintosh/maintenance-as-a-service",
+  "description": "maintenance as a service",
   "version": "1.0.0",
   "bin": {
     "maintenance-as-a-service": "./index.js"
