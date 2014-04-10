@@ -1,7 +1,7 @@
 {
-  "name": "maintenance-server",
+  "name": "maintenance-as-a-service",
   "version": "0.0.0",
   "bin": {
-    "maintenance-server": "./index.js"
+    "maintenance-as-a-service": "./index.js"
   }
 }
